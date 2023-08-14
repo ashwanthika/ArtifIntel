@@ -1,0 +1,90 @@
+observationervation sequence Q: CCLLCLCL
+Length of Q: 8
+
+After obs 1 = C:
+
+P(h1 | Q) = ???=>0.2
+P(h2 | Q) = ???=> 0.30000000000000004
+P(h3 | Q) = ???=> 0.4
+P(h4 | Q) = ???=> 0.1
+P(h5 | Q) = ???=> 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.65
+Probability that the next candy we pick will be L, given Q: 0.35
+
+After obs 2 = C:
+
+P(h1 | Q) = ???=>0.3076923076923077
+P(h2 | Q) = ???=> 0.3461538461538462
+P(h3 | Q) = ???=> 0.3076923076923077
+P(h4 | Q) = ???=> 0.038461538461538464
+P(h5 | Q) = ???=> 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.7307692307692307
+Probability that the next candy we pick will be L, given Q: 0.2692307692307693
+
+After obs 3 = L:
+
+P(h1 | Q) = ???=>0.0
+P(h2 | Q) = ???=> 0.3214285714285714
+P(h3 | Q) = ???=> 0.5714285714285714
+P(h4 | Q) = ???=> 0.10714285714285714
+P(h5 | Q) = ???=> 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.5535714285714285
+Probability that the next candy we pick will be L, given Q: 0.4464285714285715
+
+After obs 4 = L:
+
+P(h1 | Q) = ???=>0.0
+P(h2 | Q) = ???=> 0.17999999999999994
+P(h3 | Q) = ???=> 0.6399999999999999
+P(h4 | Q) = ???=> 0.17999999999999994
+P(h5 | Q) = ???=> 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.4999999999999999
+Probability that the next candy we pick will be L, given Q: 0.5000000000000001
+
+After obs 5 = C:
+
+P(h1 | Q) = ???=>0.0
+P(h2 | Q) = ???=> 0.26999999999999996
+P(h3 | Q) = ???=> 0.64
+P(h4 | Q) = ???=> 0.08999999999999998
+P(h5 | Q) = ???=> 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.5449999999999999
+Probability that the next candy we pick will be L, given Q: 0.45500000000000007
+
+After obs 6 = L:
+
+P(h1 | Q) = ???=>0.0
+P(h2 | Q) = ???=> 0.1483516483516483
+P(h3 | Q) = ???=> 0.7032967032967032
+P(h4 | Q) = ???=> 0.1483516483516483
+P(h5 | Q) = ???=> 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.4999999999999999
+Probability that the next candy we pick will be L, given Q: 0.5000000000000001
+
+After obs 7 = C:
+
+P(h1 | Q) = ???=>0.0
+P(h2 | Q) = ???=> 0.22252747252747251
+P(h3 | Q) = ???=> 0.7032967032967034
+P(h4 | Q) = ???=> 0.07417582417582416
+P(h5 | Q) = ???=> 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.5370879120879122
+Probability that the next candy we pick will be L, given Q: 0.4629120879120878
+
+After obs 8 = L:
+
+P(h1 | Q) = ???=>0.0
+P(h2 | Q) = ???=> 0.12017804154302672
+P(h3 | Q) = ???=> 0.7596439169139468
+P(h4 | Q) = ???=> 0.1201780415430267
+P(h5 | Q) = ???=> 0.0
+
+Probability that the next candy we pick will be C, given Q: 0.5000000000000002
+Probability that the next candy we pick will be L, given Q: 0.4999999999999998
